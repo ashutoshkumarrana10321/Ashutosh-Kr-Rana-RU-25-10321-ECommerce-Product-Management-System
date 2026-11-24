@@ -1,0 +1,2 @@
+P102|Keyboard|Electronics|1200.0|10
+P101|Wireless Mouse|Electronics|799.0|20
